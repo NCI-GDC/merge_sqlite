@@ -3,6 +3,7 @@
 import unittest
 
 from click.testing import CliRunner
+
 from merge_sqlite import __main__ as MOD
 
 
